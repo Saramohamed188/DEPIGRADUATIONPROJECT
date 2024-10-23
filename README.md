@@ -1,10 +1,10 @@
 ## Personalized Movie Recommendation System
-  RS-2360 AIS5_S3e 
+  RS-2360 AIS5_S3e -
   Instructor "Mohamed Agoor"
 ## Team Members
-  Sara Mohamed Hassan
-  Omnia Salman
-  Mariam Mohsen
+  Sara Mohamed Hassan -
+  Omnia Salman -
+  Mariam Mohsen -
   Omnia Nabil
 ## Overview
 The Personalized Movie Recommendation System provides tailored movie recommendations based on user preferences. The system uses Generative Adversarial Networks (GANs) and autoencoders to learn user-item interactions and predict movie ratings. The project includes a FastAPI backend that delivers real-time recommendations by taking user IDs as input and returning personalized movie suggestions.
